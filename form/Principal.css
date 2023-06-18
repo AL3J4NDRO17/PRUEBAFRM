@@ -1,0 +1,84 @@
+#a{
+    width: 10cm;
+    padding: 2cm;
+    height: auto;
+    border-radius: 20%;
+    background-color:rgba(81, 17, 255, 0.349);
+    font-size: 1cm;
+    
+    
+
+}
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(88,255,17,0.36185819070904646) 0%, rgba(17,255,243,0.11678832116788318) 54%);
+    background-image: url(brujita.PNG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+    
+}
+input{
+   
+    height: 27px;
+    
+    
+}
+input:active{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,9,0.08599508599508598) 0%, rgba(17,255,17,0.24817518248175185) 54%);
+    ;
+}
+cursor:active{
+    color: aqua;
+}
+fieldset{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(21,45,37,0.36185819070904646) 0%);
+    width:30cm;
+    height:auto;
+    font-size: 30px;
+    border-radius: 10%;
+    border: 1px solid rgba(2,0,36,1);
+    margin: auto;  
+    box-shadow: 4px 4px 4px 4px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+
+   
+    
+    
+}
+button{
+    background-color:brown;
+    padding: 10px 20px;
+    border: rgb(254,30,20);
+    cursor: pointer;
+    margin: 0 auto;
+    color:aliceblue;
+    
+    
+}
+
+
+::placeholder{
+    color: aliceblue;
+    font-family: cursive;
+    
+}
+label{
+    color: aliceblue;
+    font-family: cursive;
+}
+
+
+
+

@@ -1,0 +1,15 @@
+body{
+    background-image: url(../minimalist.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+fieldset{
+    width:500px;
+    height: 10cm;
+    font-size: 30px;
+    border-radius: 10%;
+    border: 1px solid rgba(2,0,36,1);
+    margin: auto;  
+    box-shadow: 4px 4px 4px 4px;
+}

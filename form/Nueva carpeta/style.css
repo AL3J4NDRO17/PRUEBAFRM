@@ -1,0 +1,33 @@
+div
+{    border: width 1px;
+        background-color: azure;
+        border-color: black; 
+        border-style: solid;
+        margin: 4px;
+        
+}
+#s1{background-color:wheat;
+    border:solid black 1px;
+    margin: 4px;}
+#s2{background-color:tan;
+    border:solid black 1px;
+    margin: 4px;}
+#s3{background-color:wheat;
+    border:solid black 1px;
+    margin: 4px;}
+#s4{background-color:tan;
+    border:solid black 1px;
+    margin: 4px;}
+
+body{
+ background-color:sandybrown;
+
+}
+td,th{border:solid black 1px;
+}
+table{
+    background-color: rosybrown;
+}
+#tavla{
+    background-color: rgb(175, 128, 57);
+}

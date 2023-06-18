@@ -1,0 +1,108 @@
+#a{
+    width: 13cm;
+}
+#b{
+    width: 13cm;
+}
+#c{
+    width: 13cm;
+}
+#d{
+    width: 13cm;
+}
+#e{
+    width: 13cm;
+}
+#f{
+    width: 13cm;
+}
+select{
+    height: 20px;
+    border-radius:30%;
+    color: rgb(240, 248, 255);
+}
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(88,255,17,0.36185819070904646) 0%, rgba(17,255,243,0.11678832116788318) 54%);
+    background-image: url(chica-anime-cabello-blanco-con-katana_3840x2160_xtrafondos.com.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+}
+select{
+    background-color: rgba(255,17,17,0.3868613138686131);
+    width: 3cm;
+}
+select:valid{
+    background-color: rgba(17,255,17,0.24817518248175185);
+}
+input{
+   
+    height: 27px;
+    color: aliceblue;
+    
+}
+input:valid{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,9,0.08599508599508598) 0%, rgba(17,255,17,0.24817518248175185) 54%);
+}
+input:invalid{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,9,0.08599508599508598) 0%, rgba(255,17,17,0.3868613138686131) 54%);
+}
+
+
+fieldset{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(21,45,37,0.36185819070904646) 0%);
+    width:500px;
+    height:26cm;
+    font-size: 30px;
+    border-radius: 10%;
+    border: 1px solid rgba(2,0,36,1);
+    margin: auto;  
+    box-shadow: 4px 4px 4px 4px;
+    
+    
+    
+}
+button{
+    background-color:brown;
+    padding: 10px 20px;
+    border: rgb(254,30,20);
+    cursor: pointer;
+    margin: 0 auto;
+    color: aliceblue;
+    
+    
+}
+
+
+h2{
+    font-size: 30px;
+    color: aliceblue;
+    font-family: cursive;
+}
+
+    
+
+legend{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+::placeholder{
+    color: aliceblue;
+    font-family: cursive;
+}
+label{
+    color: aliceblue;
+    font-family: cursive;
+}
+
+
